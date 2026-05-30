@@ -1,5 +1,7 @@
 # ExtraaLearn Lead Conversion Scorer
 
+🚀 **Live App:** [https://edtech-lead-scorer-wzwevsh6plafque3vbnhxq.streamlit.app](https://edtech-lead-scorer-wzwevsh6plafque3vbnhxq.streamlit.app)
+
 A machine learning web app that predicts which leads are most likely to convert to paid customers for ExtraaLearn, an EdTech startup offering upskilling programs in cutting-edge technologies.
 
 ## Overview
